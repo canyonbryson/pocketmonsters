@@ -2,6 +2,10 @@
 
 PocketMonsters is a Nuxt 4 + TypeScript Pokedex app that serves a fast, clean UX on top of PokeAPI.
 
+This is my first time using Vue and Nuxt so it was interesting learning some of the syntax and patterns.
+
+This is deployed at pocketmonsters.vercel.app
+
 ## Features
 
 - Landing page with the first 60 Pokemon
